@@ -26,7 +26,7 @@ func _input(event):
 			if event.pressed:
 					modulate = Color.blueviolet
 			else:
-				modulate = Color.red
+				modulate = Color.white
 	
 	
 	#if you need to only select opague parts of the sprite replace get_rect()
